@@ -37,11 +37,11 @@ p {
 }
 
 .bar--positive:hover{
-  fill: blue;
+  fill: #5a4a9f;
 }
 
 .bar--negative:hover {
-  fill: blue;
+  fill: #cecece;
 
 }
 
