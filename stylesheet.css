@@ -36,11 +36,11 @@ p {
 
 }
 
-.bar--positive :hover{
+.bar--positive:hover{
   fill: blue;
 }
 
-.bar--negative :hover {
+.bar--negative:hover {
   fill: blue;
 
 }
