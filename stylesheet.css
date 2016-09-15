@@ -1,0 +1,76 @@
+body {
+	background-image: url("titanic.jpg");
+	background-size: 1500px;
+	background-repeat: no-repeat;
+	background-color:black;
+}
+
+
+.axis text {
+	color:violet;
+}
+
+
+#headline {  
+	font-size:300px;
+	font-family:times;
+
+	
+}
+
+p {
+	font-size:40px;
+	padding-top:140px;
+	padding-bottom:70px;
+	padding-left:50px;
+
+}
+
+
+.bar--positive {
+  fill: #0e587c;
+}
+
+.bar--negative {
+  fill: #727272;
+
+}
+
+.axis text {
+  font-size: 10px;
+  font-family: sans-serif;
+  fill:white;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: white;
+  shape-rendering: crispEdges;
+}
+
+#a { color:white;
+		text-align:center;
+		font-family:sans-serif;
+		font-size: 15px;
+		margin-left:20px;
+		margin-bottom: 30px;
+	
+}
+	
+
+.div { height:15px;
+		width:30px;
+		margin:auto;
+		display:inline-block;
+
+		
+
+
+}
+
+
+svg {
+	display:block;
+	margin:auto;
+}
