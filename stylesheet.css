@@ -36,6 +36,15 @@ p {
 
 }
 
+.bar--positive :hover{
+  fill: blue;
+}
+
+.bar--negative :hover {
+  fill: blue;
+
+}
+
 .axis text {
   font-size: 10px;
   font-family: sans-serif;
